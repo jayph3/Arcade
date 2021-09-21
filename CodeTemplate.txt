@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Dark Souls
+//Jay Pham
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (monster attacks me) {
+    roll away from the attack;
 } else {
-    //Add event below
+    i take damage;
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (i attack NPC) {
+    NPC attacks back;
 } else {
-    //Add event below
+    NPC stays passive;
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (i kill monster) {
+    gain souls as main currency;
 } else {
-    //Add event below
+    i stay broke;
 }
 
 
